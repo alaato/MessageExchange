@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "signal.h": "c",
+        "sigaction.h": "c",
+        "unistd.h": "c",
+        "type_traits": "c",
+        "minitalk.h": "c",
+        "ft_printf.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
